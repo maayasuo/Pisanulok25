@@ -13,7 +13,7 @@ And you own me dipshit.
 | Name | Train | Accomodation | Bus |
 |:----:|:-----:|:------------:|:---:|
 | UmiPJama | Paid | Paid | Paid |
-| FieldRider | - | UnPaid | UnPaid |
+| FieLdRiDer | - | UnPaid | UnPaid |
 | MasterPoyo | Paid | UnPaid | UnPaid |
 | ako-yngd | Paid | UnPaid | UnPaid |
 | PigNumber9 | Paid | - | - |
