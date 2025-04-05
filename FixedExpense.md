@@ -1,6 +1,6 @@
-# Fixed Expense
+# Fixed Expenses
 
-Fixed Expense in our trip can be divided as follow:
+Fixed Expenses in our trip can be divided as follows:
 
 | Item | Price per Head | Person in-charge of this fee | 
 |------|:--------------:|:----------------------------:|
