@@ -14,6 +14,6 @@ And you own me dipshit.
 |:----:|:-----:|:------------:|:---:|
 | UmiPJama | Paid | Paid | Paid |
 | FieLdRiDer | - | UnPaid | UnPaid |
-| MasterPoyo | Paid | UnPaid | UnPaid |
+| MasterPoyo | Paid | Paid | Paid |
 | ako-yngd | Paid | UnPaid | UnPaid |
 | PigNumber9 | Paid | - | - |
